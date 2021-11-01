@@ -1,0 +1,30 @@
+.content {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.content .table-header {
+    font-size: 120%;
+    text-align: center;
+}
+
+.content .empty-table-noti{
+    color: red;
+}
+
+.content .header {
+    text-align: center;
+}
+
+.content .task {
+    width: 300px;
+}
+
+.content .date-created {
+    width: 100px;
+}
+
+.content .task-input-text {
+    height: 28px;
+    width: 325px;
+}
